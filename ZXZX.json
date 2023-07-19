@@ -17,10 +17,25 @@
          "name": "VIP-NET-P-TH-01-TRUE",
          "url": "wfBIvK5UGz1D5DgfQd7bdIIZWxKB33c/T337nWbYRosQAxBzL8vi8m8SgOKTrYNxHTd6Vvc8vpV6Uqk+BIwIspRSc5sra7cvEdBiP6+IPHM="
       }
+,
+{
+         "name": "VIP-NET-P-TH-02-AIS",
+         "url": "i+OY9vWH+IW9UGtkWasPfsCwjNDS6gTSKRpsJRtcUiGrxdOovObyHu1vbQ3lcLrc9Z9a6l3PJPA/fYnA9+2Sk9zjD79Q+EkOzDTUw7rHSBc="
+      }
+,
+{
+         "name": "VIP-NET-P-TH-02-DTAC",
+         "url": "0BQGUrCJtwl4knXdJLTcnohvUU8UC/Z79eLJvoHV9pFlZsTZt/84JUWbUItuzmueTNUzsXJ+fLqmgDT3wdX9dhcIy2QWlGFuKeP4TNle00c="
+      }
+,
+{
+         "name": "VIP-NET-P-TH-02-TRUE",
+         "url": "kUk6t0LV0eDIlc+g7wCZpzleFSMW0ZIlA0qrNtBwTLzVNjef+VEKqvamZU1nbvGGi9+H7QVh4Z9lZk4EiTRxsSvR3hzY27B5k/BQ/EYUYlI="
+      }
 
    ],
 "message":"
-🐧บริการเช่าเน็ต🐧
+🐧บริการเน็ต🐧
 [แบบรายปี]
 
 📦รองรับทุกการใช้งาน
@@ -32,5 +47,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":2
+   "version":3
 }
