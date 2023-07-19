@@ -4,32 +4,32 @@
 
 
 {
-         "name": "VIP-NET-P-TH-01-AIS",
+         "name": "VIP-01-AIS",
          "url": "UQn6E8t+UnNLSlu2s+E0HeWjytrS8j/zNtJM7VctV0iqxel+wAJfQdIsrjAl60ghLsB27yhCN1hf7Qbyx3x+f9SV+RF7sq7kIjLbsHrTW5w="
       }
 ,
 {
-         "name": "VIP-NET-P-TH-01-DTAC",
+         "name": "VIP-01-DTAC",
          "url": "HaMNueFPS8LmNJalhiH5UAtiC5S/8LgseQMEaGUXJssB3JPJ7MZQxEl7Ib/7q/Fsi0wbh6rsJh7EMpH6sz3YRGAnzN7lEi8XE63fuVYihoI="
       }
 ,
 {
-         "name": "VIP-NET-P-TH-01-TRUE",
+         "name": "VIP-01-TRUE",
          "url": "wfBIvK5UGz1D5DgfQd7bdIIZWxKB33c/T337nWbYRosQAxBzL8vi8m8SgOKTrYNxHTd6Vvc8vpV6Uqk+BIwIspRSc5sra7cvEdBiP6+IPHM="
       }
 ,
 {
-         "name": "VIP-NET-P-TH-02-AIS",
+         "name": "VIP-02-AIS",
          "url": "i+OY9vWH+IW9UGtkWasPfsCwjNDS6gTSKRpsJRtcUiGrxdOovObyHu1vbQ3lcLrc9Z9a6l3PJPA/fYnA9+2Sk9zjD79Q+EkOzDTUw7rHSBc="
       }
 ,
 {
-         "name": "VIP-NET-P-TH-02-DTAC",
+         "name": "VIP-02-DTAC",
          "url": "0BQGUrCJtwl4knXdJLTcnohvUU8UC/Z79eLJvoHV9pFlZsTZt/84JUWbUItuzmueTNUzsXJ+fLqmgDT3wdX9dhcIy2QWlGFuKeP4TNle00c="
       }
 ,
 {
-         "name": "VIP-NET-P-TH-02-TRUE",
+         "name": "VIP-02-TRUE",
          "url": "kUk6t0LV0eDIlc+g7wCZpzleFSMW0ZIlA0qrNtBwTLzVNjef+VEKqvamZU1nbvGGi9+H7QVh4Z9lZk4EiTRxsSvR3hzY27B5k/BQ/EYUYlI="
       }
 
@@ -47,5 +47,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":3
+   "version":4
 }
