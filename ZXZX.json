@@ -32,6 +32,21 @@
          "name": "VIP-02-TRUE",
          "url": "kUk6t0LV0eDIlc+g7wCZpzleFSMW0ZIlA0qrNtBwTLzVNjef+VEKqvamZU1nbvGGi9+H7QVh4Z9lZk4EiTRxsSvR3hzY27B5k/BQ/EYUYlI="
       }
+,
+{
+         "name": "VIP-03-AIS",
+         "url": "hki/nsS6uWJVORVZ0Sjg6unw5MLS3Uo0zwDX6muxcJKb0ccBMmQUuf7MJ0dGAKHR0Aph5hqZUfwrZjVdSY1NnaVaBioE6CHhaIoYZNQVric="
+      }
+,
+{
+         "name": "VIP-03-DTAC",
+         "url": "WrQz3YGo5bkX78FML/yEKUzuECe1oPHYoH4qa1qMs1bMAyGos0PWuxXlgSyz/KSqdkIlM7KRjJ4yNqvXLjvA4NVWp2/9MxnqAqQ1m/142N8="
+      }
+,
+{
+         "name": "VIP-03-TRUE",
+         "url": "Y4UhRjrBuJU81sHoUNSHijjpovR7MlTVXGX6hOy7xqhlLRRwXvLB4GR88X0d+ctVLQpcIpc/BpttsyTeAy10W9ORplpNetCpNgKM43MSu9M="
+      }
 
    ],
 "message":"
@@ -47,5 +62,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":4
+   "version":5
 }
